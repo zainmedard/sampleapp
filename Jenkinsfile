@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    sandbox-io-289003
 
     stages {
         stage('Build') {
